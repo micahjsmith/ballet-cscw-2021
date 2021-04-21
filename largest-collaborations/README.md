@@ -5,6 +5,7 @@ Create the table `project_size_tabular.tex` (appears in Figure 1 of the paper).
 ## Install
 
 ```
+python -m pip install --upgrade pipenv
 pipenv sync
 ```
 
